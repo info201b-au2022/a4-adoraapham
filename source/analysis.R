@@ -2,6 +2,7 @@ library(tidyverse)
 
 # The functions might be useful for A4
 source("../source/a4-helpers.R")
+get_data <- read.csv("https://raw.githubusercontent.com/vera-institute/incarceration-trends/master/incarceration_trends.csv")
 
 ## Test queries ----
 #----------------------------------------------------------------------------#
