@@ -34,12 +34,19 @@ print(sum)
 ```
 
 ## Introduction 
-[TODO]
+As the growth of information have become more accessible to the public, there has been a rising awareness that minorities, the poor, and immigrants have faced more mass incarceration then ever. Relating back to Data Feminism, there has been huge systematic mistreatment of groups of people being minoritized in the prison system, in which racial bias and stereotypes play factors into their incarceration. According to the Vera Institute, the end of the Civil War and the passage of the 13th Amendment resulted in the United States' first prison boom as state governments incarcerated increasing numbers of Black Americans. The direct stakeholders of this research would be the professional researchers that collected this data set, and the indirect stakeholders would be the general public who are interested in raising awareness for this problem and want to learn more. In this project, I will be specifically focusing on the mass incarceration of Black, AAPI, and Latinx Americans in Texas. Through this assignment, I hope to answer questions like, what is the percentages of Black, AAPI, and Latinx prisoners in Texas? How do these percentages change within different counties? What is the growth of the U.S. prison population over time?
 
 ## Data Summary 
-[TODO]
+In this project, I decided to filter the data to Texas to make the research and data a little more focused and easy to navigate. Through wrangling the data, I have found that the Texas county with the highest percentages of Black prisoners is Titus County. The highest percentages of AAPI prisoners is Bexar County, and the highest percentages of Latinx prisoners is Webb County. The county with the highest percentage of minority men is Bexar county. I used the data of Latinx, AAPI, Black, Native, and Other Race men under the umbrella of minority. Because I am focusing on the pattern of mass incarceration of minorities in Texas, these variables are important to continue my research. Knowing these variables, I can focus on these 3 counties and the patterns of inequalities within them. 
 
-[TODO ... other sections ... See Canvas for details]
 
+## Section 3 Summary Paragraph
+What year had the highest total population? We can answer this by looking at the graph, which shows that in 2007, the total population hit about 150,000, which is the highest value in the bar chart. The lowest are tied at 2001 and 2002, which is just below 100,000. In general, the total population begins to go up and down afer 2007, and while it seems to be slowly going back and forth, it doesn't hit as low as it did in 2000. 
+
+## Section 5 Summary Paragraph 
+What population is greater, the Black prisoner population or White? As clearly seen from the graph, the Black population greatly outnumbers the White population in jail. The graph shows a huge space in the middle if 8,000 and 2,000 in 2000, meaning that there were at least 6,000 more Black prisoners then White in 2000. As you can see, towards the end of the line, the Black jail population is beginning to decrease as the White jail population is beginning to increase. This very much highlights the inequalities and patterns of racial injustice by just looking at the sheer numbers of Black prisoners vs White prisoners. 
+
+## Section 6 Summary Paragraph
+What counties have the highest percentages of prison incarcerations? By looking at this graph, it looks like counties in Nevada, California, and various counties in the Midwest have higher prison incarceration percentages than others. Overall, there are many counties in between 2000 and 0 on the scale.   
 _All the very best with your work!_
 
